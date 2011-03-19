@@ -13,17 +13,20 @@
 	</div>
 	
 	<div class="row">		
-		<div class="sixcol">
-			 En nuestra primera edición de WebConfLatino Panamá hemos escogido el Hotel Interncontinental Miramar como sede para las conferencias y coctel de clausura.
+		<div class="eightcol">
+			 <p>En nuestra primera edición de WebConfLatino Panamá hemos escogido el Hotel Intercontinental Miramar como sede para las conferencias y coctel de clausura.</p>
 			 
-			 
+			 <p>La mañana del evento estaremos registrando a los participantes desde las 8:00 AM e iniciaremos puntualmente a las 9:00 AM. Los coffee breaks y almuerzo están incluídos en el precio del boleto.
+			 </p>
+
+			 <p>Para quienes nos visitan desde otros países estamos trabajando en una lista de hoteles sugeridos en caso de que nuestro hotel sede resulte arriba del presupuesto.
+			 </p>
+			 			 
 		</div>
 		
  		
-		<div class="sixcol last" style="text-align:right">
- 
+		<div class="fourcol last" style="text-align:right">
           <img src="img/miramar.jpg" class="rounded10">
-
 		</div>
 	</div>
 </div>

@@ -60,7 +60,7 @@
 
 				<div class="agenda-row darkrow rounded5">
 					<div class="twocol">12:30 PM</div>
-					<div class="tencol last">Break de Almuerzo
+					<div class="tencol last"> Almuerzo (incluído en el precio del boleto)
 					</div>
 				</div>
 				
