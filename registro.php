@@ -10,12 +10,14 @@
 	
 	<div class="row">
 	
-		<div class="ninecol">
+		<div class="ninecol"> 
+		<p>&nbsp;</p>
 		<p> 
 		Los boletos están a la venta en <a href="http://venta.boletospanama.com/orderticketsarea.asp?p=722&a=341&backurl=default.asp" target="_blank">BoletosPanama.com</a> a un precio especial de <strong>$214.00</strong> si compras antes del domingo 10 de Abril.</p> 
 		<p>A partir de lunes 11 de Abril el precio regular es de <strong>$267.50</strong></p>
 		<p>Los cupos son limitados por lo que te recomendamos que compres tus entradas lo antes posible. Si tienes dudas respecto al evento no dudes en escribirnos a <a href="mailto:panama@webconflatino.com" class="link">panama@webconflatino.com</a></p>
 		
+		<p>&nbsp;</p><p>&nbsp;</p>
 		</div> 
 		
 		<div class="threecol last">

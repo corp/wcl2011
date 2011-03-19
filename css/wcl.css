@@ -101,27 +101,27 @@ body{
 }
 
 .expositores{
-	background: url(../img/ico_expo.png) no-repeat 155px 1px;
+	background: url(../img/ico_expo.png) no-repeat right;
 }
 
 .lugar{
-	background: url(../img/ico_loc.png) no-repeat 155px 4px;
+	background: url(../img/ico_loc.png) no-repeat right;
 }
 
 .agenda{
-	background: url(../img/ico_cal.png) no-repeat 155px 2px;
+	background: url(../img/ico_cal.png) no-repeat right;
 }
 
 .sponsors{
-	background: url(../img/ico_sponsors.png) no-repeat 155px 3px;
+	background: url(../img/ico_sponsors.png) no-repeat right;
 }
 
 .registro{
-	background: url(../img/ico_registro.png) no-repeat 155px 2px;
+	background: url(../img/ico_registro.png) no-repeat right;
 }
 
 .acerca{
-	background: url(../img/ico_about.png) no-repeat 155px 2px;
+	background: url(../img/ico_about.png) no-repeat right;
 }
 
 .text-normal{
