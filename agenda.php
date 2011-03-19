@@ -15,6 +15,9 @@
 	<div class="row">
 		
 		<div class="eightcol">
+             <p>
+             Nos encontramos trabajando en confirmar detalles de la agenda, esta aún está sujeta a cambios menores:
+             <br/></p>
  
 			<div class="agenda-list">
 				

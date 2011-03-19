@@ -55,7 +55,7 @@
 		<div class="fourcol last">
 			 <div class="name dark-gray white-shadow">Quinten Farmer</div>
 			 <div class="person-title text-small white-shadow">Techstars - New York City</div>
-			 <div class="person-about ">Viene directamente de Estados Unidos a contarnos acerca de las oportunidades para emprendedores latinos para participar en programas de incubación acelerada de empresas. </div>
+			 <div class="person-about ">Viene directamente de Estados Unidos a contarnos acerca de las oportunidades para emprendedores latinos en programas de incubación acelerada de empresas. </div>
 		</div>
 		
 	</div>
