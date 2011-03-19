@@ -34,12 +34,12 @@
 <div class="container">
 	
 	<div class="row">
-		<div class="tencol">
+		<div class="eightcol">
 		 <a href="./"><img src="img/logoblue-shadow.png"></a>
 		<div class="title-info"><span>28 DE ABRIL</span> <span class="bullet">■</span> <span>HOTEL INTERCONTINENTAL MIRAMAR</span> <span class="bullet">■</span>  <span>CIUDAD PANAMA</span></div>
 		</div>
 		
-		<div class="twocol last">
+		<div class="fourcol last">
 			<ul class="menu">
 				<li class="acerca">
 					<a href="./acerca.php">Acerca</a>
