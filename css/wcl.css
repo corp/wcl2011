@@ -217,27 +217,32 @@ body{
 }
 
 .darkrow{
-	/*background-color: rgba(60,82,106,0.8); */   
-	/* Fallback for web browsers that doesn't support RGBa */
+	/*background-color: rgba(60,82,106,0.8); */        
+	/* Fallback for web browsers that doesn't support RGBa 
    	background: rgb(60,82,106);
-   	/* RGBa with 0.6 opacity */
+   	/* RGBa with 0.6 opacity 
    	background: rgba(60,82,106,0.8);
-   	/* For IE 5.5 - 7*/
+   	/* For IE 5.5 - 7
    	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#553C526A, endColorstr=#553C526A);
-   	/* For IE 8*/
-   	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#553C526A, endColorstr=#553C526A)"; 
+   	/* For IE 8
+     -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#553C526A, endColorstr=#553C526A)";
+     
+   background:#3C526A; */ 
+   background: url(../img/darkrow.jpg);
 }
 
 .lightrow{
    /* background-color: rgba(102,136,174,0.27); */
-   	/* Fallback for web browsers that doesn't support RGBa */
+   	/* Fallback for web browsers that doesn't support RGBa  
    	background: rgb(102, 136, 174);
-   	/* RGBa with 0.6 opacity */
+   	/* RGBa with 0.6 opacity 
    	background: rgba(102, 136, 174, 0.27);
-   	/* For IE 5.5 - 7*/
+   	/* For IE 5.5 - 7
    	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#556688AE, endColorstr=#556688AE);
-   	/* For IE 8*/
-   	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#556688AE, endColorstr=#556688AE)";
+   	/* For IE 8
+     -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#556688AE, endColorstr=#556688AE)";
+     background:#B4C5D9;*/ 
+     background: url(../img/lightrow.jpg);
 }
 
 .speaker-name{
