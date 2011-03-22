@@ -57,7 +57,7 @@
 					<div class="twocol">11:45 AM</div>
 					<div class="tencol last">Cómo llegar al público jóven en medios sociales
 					
-						<div class="speaker-name darkblue">Louis Ducret</div>
+						<div class="speaker-name darkblue">Louis Ducruet</div>
 					</div>
 				</div>
 

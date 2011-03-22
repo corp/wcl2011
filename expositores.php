@@ -149,10 +149,10 @@ Fundador de Hipertextual, una de las redes de blogs más grande en español. Esc
           	</div>
 
           	<div class="eightcol">
-          		 <div class="name dark-gray white-shadow">Louis Ducret</div>
-          		 <div class="person-title text-small white-shadow">PonteChispa.com - Panamá</div>
+          		 <div class="name dark-gray white-shadow">Louis Ducruet</div>
+          		 <div class="person-title text-small white-shadow">Ponte-Chispa.com - Panamá</div>
           		 <div class="person-about">
-                 Estudiante de Emprendimiento y Mercadeo en Texas Christian University, autor de PonteChispa.com y Director Creativo para campañas digitales. He desarrollado teorías que actualmente estamos usando para el desarrollo de campañas
+                 Estudiante de Emprendimiento y Mercadeo en Texas Christian University, autor de Ponte-Chispa.com y Director Creativo para campañas digitales. He desarrollado teorías que actualmente estamos usando para el desarrollo de campañas
                  incluyendo una investigación que combinaba neurología con mercadeo para identificar puntos
                  de valor en los jóvenes
                  Hoy en día la creatividad no basta, para triunfar en un mundo cada vez masa conectado

@@ -68,7 +68,7 @@
 		</div>
 		
 		<div class="fourcol">
-    		 <div class="name dark-gray white-shadow">Javier D'Arcorsso</div>
+    		 <div class="name dark-gray white-shadow">Javier D'Accorso</div>
     		 <div class="person-title text-small white-shadow">Eudaimonia - Argentina</div>
     		 <div class="person-about ">Nos contará acerca de la aplicación de juegos de video en el mercadeo y publicidad, el nuevo campo del "Advergaming"</div>  
 		</div>
@@ -93,8 +93,8 @@
 		</div>
 		
 		<div class="fourcol"  >
-			 <div class="name dark-gray white-shadow">Louis Ducret</div>
-			 <div class="person-title text-small white-shadow">PonteChispa.com - Panamá</div>
+			 <div class="name dark-gray white-shadow">Louis Ducruet</div>
+			 <div class="person-title text-small white-shadow">Ponte-Chispa.com - Panamá</div>
 			 <div class="person-about ">Un jóven talento panameño nos explicará como las empresas pueden atraer la atención de los jóvenes en los medios sociales. </div>
 		</div>
 		
